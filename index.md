@@ -1,9 +1,15 @@
-##<Aleksi Saarimaa> web tehtävä
+## <Aleksi Saarimaa> web tehtävä
+
 _not_
+
 **oikeasti**
+
 _Tottakai_
+
 **vähän leffaa**
+
 **_tämä on uskomatonta_**
+
 # Header one
 ## Header two
 ### Header three
@@ -74,4 +80,5 @@ To doubt they were kneeling then.
 2.If you _do_ make a mess, use a towel to clean it up!(.)  
   Pour a gallon of milk into the bowl.(.)  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
 
