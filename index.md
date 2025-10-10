@@ -45,8 +45,8 @@ Well, do i have [the website for you][another fun place]!
 #### Teht12
 ![Black cat][Black]
 ![Orange cat][Orange]
-![Black]:https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
-![Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+![Black](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
+![Orange](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
 
 #### Teht13
 I read this interesting quote the other day:
@@ -117,6 +117,7 @@ To doubt they were kneeling then.
 2.If you _do_ make a mess, use a towel to clean it up!(.)  
   Pour a gallon of milk into the bowl.(.)  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
 
 
 
