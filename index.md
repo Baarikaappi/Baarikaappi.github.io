@@ -31,7 +31,7 @@ _sata vuotta..._
  [You're **really, really** going to want to see this.](www.dailykitten.com )
 
 #### Teht9
- #### The latest news from the [BBC](www.bbc.com/news)
+#### The latest news from the [BBC](www.bbc.com/news)
 
 #### Teht10
   Do you want [see something fun][fun place]?
@@ -117,6 +117,7 @@ To doubt they were kneeling then.
 2.If you _do_ make a mess, use a towel to clean it up!(.)  
   Pour a gallon of milk into the bowl.(.)  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
 
 
 
