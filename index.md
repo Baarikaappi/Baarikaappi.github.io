@@ -51,6 +51,8 @@ Well, do i have [the website for you][another fun place]!
 #### Teht13
 I read this interesting quote the other day:
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
+
+#### Teht14
 > His words seemed to have struck some deep chord in his own nature. Had he spoken
 of himself, of himself as he was or wished to be? Stephen watched his face for some
 moments in silence. A cold sadness was there. He had spoken of himself, of his own
@@ -59,6 +61,8 @@ loneliness which he feared.
 > —Of whom are you speaking? Stephen asked at length.
 >
 > Cranly did not answer.
+
+#### Teht15
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words>: VIVE L'IRLANDE!
 
 #### Teht16
@@ -72,9 +76,9 @@ loneliness which he feared.
 3. Rub the tomatoes in flour
 
 #### Teht18
-*Azalea (Ericaceae Rhododendron)
-*Chrysanthemum (Anthemideae Chrysanthemum)
-*Dahlia (Coreopsideae Dahlia)
+* Azalea (Ericaceae Rhododendron)
+* Chrysanthemum (Anthemideae Chrysanthemum)
+* Dahlia (Coreopsideae Dahlia)
 
 #### Teht19
 * Calculus,
@@ -113,6 +117,7 @@ To doubt they were kneeling then.
 2.If you _do_ make a mess, use a towel to clean it up!(.)  
   Pour a gallon of milk into the bowl.(.)  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
 
 
 
