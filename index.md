@@ -43,8 +43,6 @@ Well, do i have [the website for you][another fun place]!
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 #### Teht12
-![Black cat][Black]
-![Orange cat][Orange]
 
 ![Black](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
@@ -119,6 +117,7 @@ To doubt they were kneeling then.
 2.If you _do_ make a mess, use a towel to clean it up!(.)  
   Pour a gallon of milk into the bowl.(.)  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
 
 
 
