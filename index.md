@@ -30,11 +30,11 @@ _sata vuotta..._
  [Hae sitä!](www.google.com).
  [You're **really, really** going to want to see this.](www.dailykitten.com )
 
- #### Teht9
+#### Teht9
  #### The latest news from the [BBC](www.bbc.com/news)
 
- #### Teht10
- Do you want [see something fun][fun place]?
+#### Teht10
+  Do you want [see something fun][fun place]?
 Well, do i have [the website for you][another fun place]!
 [fun place]: www.zombo.com 
 [another website for you]:www.stumbleupon.com
@@ -113,6 +113,7 @@ To doubt they were kneeling then.
 2.If you _do_ make a mess, use a towel to clean it up!(.)  
   Pour a gallon of milk into the bowl.(.)  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
 
 
 
