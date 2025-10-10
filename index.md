@@ -23,10 +23,12 @@ _sata vuotta..._
  [You're **really, really** going to want to see this.](www.dailykitten.com )
  
  #### The latest news from the [BBC](www.bbc.com/news)
+ 
  Do you want [see something fun][fun place]?
 Well, do i have [the website for you][another fun place]!
 [fun place]: www.zombo.com 
 [another website for you]:www.stumbleupon.com
+
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 ![Black cat][Black]
 ![Orange cat][Orange]
@@ -34,7 +36,6 @@ Well, do i have [the website for you][another fun place]!
 ![Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 I read this interesting quote the other day:
-
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
 > His words seemed to have struck some deep chord in his own nature. Had he spoken
 of himself, of himself as he was or wished to be? Stephen watched his face for some
@@ -84,6 +85,7 @@ To doubt they were kneeling then.
 2.If you _do_ make a mess, use a towel to clean it up!(.)  
   Pour a gallon of milk into the bowl.(.)  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
 
 
 
